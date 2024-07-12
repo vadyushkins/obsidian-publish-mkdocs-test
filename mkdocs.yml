@@ -1,4 +1,7 @@
-site_name: obsidian-mkdocs template
+site_description: obsidian-publish-mkdocs-test
+site_name: obsidian-publish-mkdocs-test
+site_url: https://vadyushkins.github.io/obsidian-publish-mkdocs-test/
+
 
 theme:
     name: 'material'
